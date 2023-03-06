@@ -1,0 +1,10 @@
+body{
+    font-family: monospace;
+    background-color: #F7EBE8;
+}
+
+.header{ 
+    text-align:center;
+    padding-top: 1vw;
+    color: #a30b37 ;
+}
