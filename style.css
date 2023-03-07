@@ -8,3 +8,7 @@ body{
     padding-top: 1vw;
     color: #a30b37 ;
 }
+
+.button{
+    border:solid 0px;
+}
